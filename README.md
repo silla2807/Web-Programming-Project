@@ -54,6 +54,9 @@ The Lost and Found web application includes the following key features:
 - Matching algorithm:The system notifyes users accordingly based on whether the item is lost or found.
 - Notifications: Users receive mails about items, helping them recover their belongings.
 
+## Website Overview
+Please note that the reference website available at [https://silla2807.github.io/Lost-and-Found/](https://silla2807.github.io/Lost-and-Found/) showcases a subset of features available in the complete codebase. However, we would like to assure you that the actual codebase provided includes all the features as mentioned in the project documentation. You can refer to the codebase for a comprehensive understanding of the application's functionality.
+
 ## Contributing
 We welcome contributions to the Lost and Found web application. To contribute, follow these steps:
 
