@@ -23,23 +23,35 @@ To run the Lost and Found web application locally, install XAMPP and follow thes
 
 2. **Clone the Repository**:
 
+```bash
 git clone https://github.com/silla2807/Web-Programming-Project.git
+cd Web-Programming-Project
+```
 
-3. Navigate to the project directory: cd Web-Programming-Project
-4. Install Dependencies:
+3. **Install Dependencies**:
+
+```bash
 npm install
-5. Start XAMPP: Launch the XAMPP control panel and start the Apache and MySQL services.
+```
 
-6.Set up the Database:
+4. **Start XAMPP**: Launch the XAMPP control panel and start the Apache and MySQL services.
 
-- Open a web browser and navigate to http://localhost/phpmyadmin to access the phpMyAdmin interface.
-- Create a new database named "lostfound".
-- Import the SQL file provided in the repository (lostfound.sql) to set up the required database structure.
-7. Launch the Application:
+5. **Set up the Database**:
+
+   - Open a web browser and navigate to `http://localhost/phpmyadmin` to access the phpMyAdmin interface.
+   - Create a new database named "lostfound".
+   - Import the SQL file provided in the repository (`lostfound.sql`) to set up the required database structure.
+
+6. **Launch the Application**:
+
+```bash
 npm start
+```
 
-8. Access the Application: Open a web browser and visit http://localhost/LostFound/home.html to access the Lost and Found web application.
+7. **Access the Application**: Open a web browser and visit `http://localhost/LostFound/home.html` to access the Lost and Found web application.
+
 Ensure that XAMPP is running and the necessary services are active while accessing the application locally.
+
 
 ## Usage
 Once the application is up and running, users can perform the following actions:
