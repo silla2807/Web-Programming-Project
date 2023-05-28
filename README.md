@@ -16,24 +16,30 @@ Welcome to the Lost and Found web application! This project was developed as par
 The Lost and Found web application is designed to create a centralized platform for students to report lost items and search for their belongings. The application allows users to register and login to their accounts, enabling them to post details about their lost items. Additionally, if a user finds an item, they can report it through the application. The system then help people find lost and found items, notifying the relevant individuals through mail.
 
 ## Installation
-To run the Lost and Found web application locally, follow these steps:
 
-1. Clone the repository:  git clone https://github.com/silla2807/Web-Programming-Project.git
+To run the Lost and Found web application locally, install XAMPP and follow these steps:
 
-2. Navigate to the project directory: cd Web-Programming-Project
+1. **Install XAMPP**: XAMPP is a cross-platform web server solution that includes Apache, MySQL, PHP, and Perl. You can download and install XAMPP from the official website: [https://www.apachefriends.org/](https://www.apachefriends.org/).
 
-3. Install the required dependencies: npm install
+2. **Clone the Repository**:
 
+git clone https://github.com/silla2807/Web-Programming-Project.git
 
-4. Set up the database:
-- Create a new database (database name : lostfound) using a preferred database management system (e.g., MySQL, PostgreSQL).
-- Update the database connection configuration in the project's configuration files to match your database credentials.
+3. Navigate to the project directory: cd Web-Programming-Project
+4. Install Dependencies:
+npm install
+5. Start XAMPP: Launch the XAMPP control panel and start the Apache and MySQL services.
 
-5. Launch the application:
+6.Set up the Database:
 
+- Open a web browser and navigate to http://localhost/phpmyadmin to access the phpMyAdmin interface.
+- Create a new database named "lostfound".
+- Import the SQL file provided in the repository (lostfound.sql) to set up the required database structure.
+7. Launch the Application:
 npm start
 
-6. Open a web browser and visit `http://localhost/LostFound/home.html` to access the Lost and Found web application.
+8. Access the Application: Open a web browser and visit http://localhost/LostFound/home.html to access the Lost and Found web application.
+Ensure that XAMPP is running and the necessary services are active while accessing the application locally.
 
 ## Usage
 Once the application is up and running, users can perform the following actions:
