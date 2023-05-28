@@ -29,7 +29,9 @@ git clone https://github.com/silla2807/Web-Programming-Project.git
 
 ```
 3. **Navigate to the project directory**: 
-```bash cd Web-Programming-Project
+```bash 
+cd Web-Programming-Project
+
 ```
 4. **Install Dependencies**:
 
