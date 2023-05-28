@@ -93,8 +93,3 @@ We welcome contributions to the Lost and Found web application. To contribute, f
 The Lost and Found web application is licensed under the [MIT License](LICENSE). You are free to modify and distribute the application according to the terms and conditions of this license.
 
 Please note that this project was developed for educational purposes, and we cannot guarantee ongoing maintenance or support.
-
-
-
-
-
