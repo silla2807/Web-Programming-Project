@@ -29,7 +29,7 @@ npm install
 
 
 4. Set up the database:
-- Create a new database using a preferred database management system (e.g., MySQL, PostgreSQL).
+- Create a new database (database name : lostfound) using a preferred database management system (e.g., MySQL, PostgreSQL).
 - Update the database connection configuration in the project's configuration files to match your database credentials.
 
 5. Launch the application:
