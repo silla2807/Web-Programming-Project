@@ -18,17 +18,11 @@ The Lost and Found web application is designed to create a centralized platform 
 ## Installation
 To run the Lost and Found web application locally, follow these steps:
 
-1. Clone the repository:  
+1. Clone the repository:  git clone https://github.com/silla2807/Web-Programming-Project.git
 
-git clone https://github.com/silla2807/Web-Programming-Project.git
+2. Navigate to the project directory: cd Web-Programming-Project
 
-2. Navigate to the project directory:
-
-cd Web-Programming-Project
-
-3. Install the required dependencies:
-
-npm install
+3. Install the required dependencies: npm install
 
 
 4. Set up the database:
