@@ -8,7 +8,7 @@ Welcome to the Lost and Found web application! This project was developed as par
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Website Overview](#website overview)
+- [Website Overview](#website-overview)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
